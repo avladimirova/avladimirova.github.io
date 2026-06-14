@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Обо мне",
+    "section": "",
+    "text": "Краткая информация об авторе, контакты, CV.",
+    "crumbs": [
+      "Обо мне"
+    ]
+  },
+  {
+    "objectID": "projects/packages/index.html",
+    "href": "projects/packages/index.html",
+    "title": "Пакеты",
+    "section": "",
+    "text": "Документация по Python/R пакетам появится здесь.",
+    "crumbs": [
+      "Пакеты"
+    ]
+  },
+  {
+    "objectID": "projects/publications/index.html",
+    "href": "projects/publications/index.html",
+    "title": "Публикации",
+    "section": "",
+    "text": "Список статей и препринтов появится здесь.",
+    "crumbs": [
+      "Публикации"
+    ]
+  },
+  {
+    "objectID": "projects/tutorials/index.html",
+    "href": "projects/tutorials/index.html",
+    "title": "Учебно-методические материалы",
+    "section": "",
+    "text": "Учебники и методические материалы появятся здесь.",
+    "crumbs": [
+      "Учебно-методические материалы"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Алина Владимирова",
+    "section": "",
+    "text": "Здесь собраны мои публикации, учебно-методические материалы и пакеты для работы с данными.",
+    "crumbs": [
+      "Главная"
+    ]
+  },
+  {
+    "objectID": "index.html#публикации",
+    "href": "index.html#публикации",
+    "title": "Алина Владимирова",
+    "section": "Публикации",
+    "text": "Публикации\nСм. раздел Публикации.",
+    "crumbs": [
+      "Главная"
+    ]
+  },
+  {
+    "objectID": "index.html#учебно-методические-материалы",
+    "href": "index.html#учебно-методические-материалы",
+    "title": "Алина Владимирова",
+    "section": "Учебно-методические материалы",
+    "text": "Учебно-методические материалы\nСм. раздел Учебно-методические материалы.",
+    "crumbs": [
+      "Главная"
+    ]
+  },
+  {
+    "objectID": "index.html#пакеты",
+    "href": "index.html#пакеты",
+    "title": "Алина Владимирова",
+    "section": "Пакеты",
+    "text": "Пакеты\nСм. раздел Пакеты.",
+    "crumbs": [
+      "Главная"
+    ]
+  }
+]
