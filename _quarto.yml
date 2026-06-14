@@ -1,0 +1,40 @@
+# конфигурационный файл проекта
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Алина Владимирова"
+  description: "Портфолио: публикации, учебные материалы, программные пакеты"
+  search: true
+  page-navigation: true
+  bread-crumbs: true
+
+  sidebar:
+    style: "docked"
+    collapse-level: 2
+    contents:
+      - text: "Главная"
+        href: index.qmd
+      - text: "Обо мне"
+        href: about.qmd
+      - section: "Публикации"
+        href: projects/publications/index.qmd
+        contents: []
+      - section: "Учебно-методические материалы"
+        href: projects/tutorials/index.qmd
+        contents: []
+      - section: "Пакеты"
+        href: projects/packages/index.qmd
+        contents: []
+
+format:
+  html:
+    theme: styles.scss
+    toc: true
+    toc-location: right
+    toc-title: "На этой странице"
+    page-layout: article
+    highlight-style: github
+    code-fold: true
+    code-summary: "Показать/скрыть код"
